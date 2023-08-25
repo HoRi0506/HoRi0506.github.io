@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
+<!--
 ```
 이 프로젝트는 github blog를 html로 구현하는 것입니다.
 
@@ -101,3 +102,4 @@ def checker(answer: int, guess: int) -> bool:
 
 - [google](https://www.google.co.kr)
 ```
+--!>
