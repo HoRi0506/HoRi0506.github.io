@@ -23,7 +23,7 @@ instagram_username: kiiiiiii_hr
 # Additional icon links
 additional_links:
 - title: fortfolio
-  icon: 'fas fa-circle-user'
+  icon: 'far fa-circle-user'
   url: https://www.notion.so/Kiwan-Kim-87a66d5e0c8942d4b772b29be7709c0f?pvs=4
   
 - title: google
