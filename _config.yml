@@ -54,7 +54,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: 'fab fa-github fa-beat'
+            icon: 'fas fa-bell fa-shake'
             url: github.com/HoRi0506/export_restrictions_GPT
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -75,7 +75,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: 'fas fa-n fa-beat'
+            icon: 'fas fa-bell fa-shake'
             url: https://www.notion.so/9134da3799d44b94b7f539ef7e5ae45e
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -96,7 +96,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: 'fas fa-n fa-beat'
+            icon: 'fas fa-bell fa-shake'
             url: https://www.notion.so/EDA-e0678a62846046e394b127d0865d3286?pvs=21
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -117,7 +117,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: 'fab fa-vimeo fa-beat'
+            icon: 'fas fa-bell fa-shake'
             url: https://velog.io/@vmflskgo10/크롤링-프로젝트-책-추천
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
