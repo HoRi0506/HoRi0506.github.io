@@ -35,19 +35,20 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/resume_photo_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요! <mark>데이터와 함께 사는 개발자, Data Scientist로 나아가는</mark> 김기완 입니다.
+  어떤 것을 만들거나 분석하는 것을 좋아해서 데이터 분석, 자연어처리, AI, 음성비서, GPT 등 다양한 곳에 관심을 가지고 있습니다.
+  다양한 기술들을 접하고 배우면서 꼭 있어야 하는 <mark>큰 톱니바퀴</mark>같은 존재로 성장하고자 합니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 수출규제 GPT
+        link: github.com/HoRi0506/export_restrictions_GPT
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -57,37 +58,83 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
+
+      - layout: top-middle
+        title: Kaggle-Competition
+        link: https://www.notion.so/9134da3799d44b94b7f539ef7e5ae45e
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-n
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : modeling-project
+        description: | # this will include new lines to allow paragraphs
+          Kaggle Competition으로 식품 마트의 미디어 캠페인 비용을 예측하는 모델을 고안하는 프로젝트
+
+      - layout: top-middle
+        title: 여기어때? 얼마들어?
+        link: https://www.notion.so/EDA-e0678a62846046e394b127d0865d3286?pvs=21
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-n
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : EDA-project
+        description: | # this will include new lines to allow paragraphs
+          부트캠프에서 진행한 toy project로 여행자의 여행지 선정과 기준을 EDA로 분석해보는 프로젝트
+
+      - layout: top-middle
+        title: 싼 책 어딨는지 알아?
+        link: https://velog.io/@vmflskgo10/크롤링-프로젝트-책-추천
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-vimeo
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : Crawling-project
+        description: | # this will include new lines to allow paragraphs
+          부트캠프에서 진행한 toy project로 다양한 서점 사이트 정보를 Crawling해서 원하는 책을 검색하면 책 정보를 사이트 별로 비교해서 출력해주는 프로젝트
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      #   title: The Boring Company
+      #   link: boringcompany.com
+      #   # link_text: boringcompany.com
+      #   sub_title: Senior Network System Administrator
+      #   caption: November 2017 - Present
+      #   quote: >
+      #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #       Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Sangji University
+        caption: 2016.03 - 2023.02
+        sub_title: Department of Computer Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          상지대학교 컴퓨터공학과 졸업(학사)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          컴퓨터 시스템, 프로그래밍 기법, 알고리즘 설계, 응용소프트웨어 개발 등 컴퓨터공학의 다양한 이론과 실습을 배움
 
   - title: A Little More About Me
     layout: text
