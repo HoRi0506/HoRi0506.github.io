@@ -9,7 +9,8 @@ version: 2
 name: Kiwan Kim
 title: Junior Data Scientist
 email: vmflskgo10@naver.com
-website: www.github.com/HoRi0506
+fortfolio: https://www.notion.so/Kiwan-Kim-87a66d5e0c8942d4b772b29be7709c0f?pvs=4
+# website: www.github.com/HoRi0506
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -20,8 +21,12 @@ instagram_username: kiiiiiii_hr
 
 # Additional icon links
 additional_links:
+# - title: google
+#   icon: fas fa-globe
+#   url: https://www.google.com
+  
 - title: google
-  icon: fas fa-globe
+  icon: fab fa-google
   url: https://www.google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
