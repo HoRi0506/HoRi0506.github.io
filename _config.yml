@@ -62,7 +62,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
     
-    content:
       - layout: top-middle
         title: Kaggle-Competition
         link: https://www.notion.so/9134da3799d44b94b7f539ef7e5ae45e
@@ -79,7 +78,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Kaggle Competition으로 식품 마트의 미디어 캠페인 비용을 예측하는 모델을 고안하는 프로젝트
     
-    content:
       - layout: top-middle
         title: 여기어때? 얼마들어?
         link: https://www.notion.so/EDA-e0678a62846046e394b127d0865d3286?pvs=21
@@ -96,7 +94,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           부트캠프에서 진행한 toy project로 여행자의 여행지 선정과 기준을 EDA로 분석해보는 프로젝트
     
-    content:
       - layout: top-middle
         title: 싼 책 어딨는지 알아?
         link: https://velog.io/@vmflskgo10/크롤링-프로젝트-책-추천
