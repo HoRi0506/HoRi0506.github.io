@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kiwan Kim
-title: Data Scientist
+title: Junior Data Scientist
 email: vmflskgo10@naver.com
 website: www.github.com/HoRi0506
 
@@ -48,65 +48,79 @@ content:
     content:
       - layout: left
         title: 수출규제 GPT
-        link: github.com/HoRi0506/export_restrictions_GPT
+        caption: 23.04.28 ~ 23.06.22
+        sub_title: "패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project"
+        # link: github.com/HoRi0506/export_restrictions_GPT
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/HoRi0506/export_restrictions_GPT
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
+        # quote: >
+        #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
         description: | # this will include new lines to allow paragraphs
           데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
+
+      - layout: separator
     
       - layout: left
         title: Kaggle-Competition
-        link: https://www.notion.so/9134da3799d44b94b7f539ef7e5ae45e
+        caption: 23.03.22 ~ 23.04.05
+        sub_title: "패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : modeling-project"
+        # link: https://www.notion.so/9134da3799d44b94b7f539ef7e5ae45e
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-n
-            url: github.com/sproogen/modern-resume-theme
+            icon: fab fa-solid fa-n
+            url: https://www.notion.so/9134da3799d44b94b7f539ef7e5ae45e
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : modeling-project
+        # quote: >
+        #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : modeling-project
         description: | # this will include new lines to allow paragraphs
           Kaggle Competition으로 식품 마트의 미디어 캠페인 비용을 예측하는 모델을 고안하는 프로젝트
+
+      - layout: separator
     
       - layout: left
         title: 여기어때? 얼마들어?
-        link: https://www.notion.so/EDA-e0678a62846046e394b127d0865d3286?pvs=21
+        caption: 23.02.12 ~ 23.02.21
+        sub_title: "패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : EDA-project"
+        # link: https://www.notion.so/EDA-e0678a62846046e394b127d0865d3286?pvs=21
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-n
-            url: github.com/sproogen/modern-resume-theme
+            icon: fab fa-solid fa-n
+            url: https://www.notion.so/EDA-e0678a62846046e394b127d0865d3286?pvs=21
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : EDA-project
+        # quote: >
+        #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : EDA-project
         description: | # this will include new lines to allow paragraphs
           부트캠프에서 진행한 toy project로 여행자의 여행지 선정과 기준을 EDA로 분석해보는 프로젝트
+
+      - layout: separator
     
       - layout: left
         title: 싼 책 어딨는지 알아?
-        link: https://velog.io/@vmflskgo10/크롤링-프로젝트-책-추천
+        caption: 23.01.17 ~ 23.01.20
+        sub_title: "패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : Crawling-project"
+        # link: https://velog.io/@vmflskgo10/크롤링-프로젝트-책-추천
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-vimeo
-            url: github.com/sproogen/modern-resume-theme
+            url: https://velog.io/@vmflskgo10/크롤링-프로젝트-책-추천
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : Crawling-project
+        # quote: >
+        #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : Crawling-project
         description: | # this will include new lines to allow paragraphs
           부트캠프에서 진행한 toy project로 다양한 서점 사이트 정보를 Crawling해서 원하는 책을 검색하면 책 정보를 사이트 별로 비교해서 출력해주는 프로젝트
 
@@ -128,11 +142,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: AI 기반 데이터 사이언티스트 양성 과정
+        caption: 22.12 - 23.06
+        sub_title: "패스트캠퍼스 강남학원"
+        # quote: >
+        #  
+        description: | # this will include new lines to allow paragraphs
+          데이터 사이언스 분야의 디지털 핵심 실무 인재가 되는 것을 목표로 이론 학습 뿐만 아니라 파이썬 코딩, 머신러닝/딥러닝 학습,
+          기업 수요에 맞는 프로젝트 진행, 전문가 코칭 등을 통해 AI 기반의 데이터 사이언티스트를 위한 필수적인 핵심 역량을 배움
+    
+      - layout: separator
+
+      - layout: left
+        title: 지능형 빅데이터 분석 실무자 양성 과정
+        caption: 22.02 - 22.12
+        sub_title: "상지대학교 및 원주고용센터"
+        # quote: >
+        #  
+        description: | # this will include new lines to allow paragraphs
+          지능형 빅데이터를 분석할 수 있으며, 분산된 데이터를 수집/저장/처리/분석하고 시각화하여 빅데이터를 분석할 수 있음.
+          데이터 전처리 과정을 통해 머신러닝 기반으로 빅데이터를 분석할 수 있음
+    
+      - layout: separator
+    
+      - layout: left
         title: Sangji University
-        caption: 2016.03 - 2023.02
+        caption: 16.03 - 23.02
         sub_title: Department of Computer Engineering
-        quote: >
-          상지대학교 컴퓨터공학과 졸업(학사)
+        # quote: >
+        #   상지대학교 컴퓨터공학과 졸업(학사)
         description: | # this will include new lines to allow paragraphs
           컴퓨터 시스템, 프로그래밍 기법, 알고리즘 설계, 응용소프트웨어 개발 등 컴퓨터공학의 다양한 이론과 실습을 배움
 
