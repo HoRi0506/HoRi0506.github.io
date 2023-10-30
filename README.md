@@ -8,7 +8,7 @@
 
 ## 📞 Contact
 - 📨 vmflskgo10@naver.com
-- 📑 [GitHub Resume](https://hori0506.github.io/resume/)
+- 📑 [GitHub Resume](https://hori0506.github.io/)
 - 🗒️ [Notion Portfolio](https://www.notion.so/Portfolio-87a66d5e0c8942d4b772b29be7709c0f?pvs=4)
 
 ## 📚 Skill & Tools
