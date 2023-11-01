@@ -176,9 +176,9 @@ content:
       - layout: separator
     
       - layout: left
-        title: Sangji University
+        title: 상지대학교
         caption: 16.03 - 23.02
-        sub_title: Department of Computer Engineering
+        sub_title: 컴퓨터공학과
         # quote: >
         #   상지대학교 컴퓨터공학과 졸업(학사)
         description: | # this will include new lines to allow paragraphs
