@@ -9,7 +9,6 @@ version: 2
 name: Kiwan Kim
 title: Junior Data Scientist
 email: vmflskgo10@naver.com
-update: 23.11.05
 # phone: -
 # fortfolio: https://www.notion.so/Kiwan-Kim-87a66d5e0c8942d4b772b29be7709c0f?pvs=4
 # website: www.github.com/HoRi0506
@@ -199,7 +198,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: update 23.11.05
 
 # Build settings
 remote_theme: sproogen/resume-theme
