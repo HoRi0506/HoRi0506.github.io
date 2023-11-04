@@ -198,7 +198,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: update 23.11.05
+references_title: update 23.11.05
 
 # Build settings
 remote_theme: sproogen/resume-theme
