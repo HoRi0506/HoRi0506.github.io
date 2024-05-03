@@ -55,19 +55,23 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Experience # Title for the section
+  - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 보인정보기술
-      #   link: boringcompany.com
-      #   # link_text: boringcompany.com
         caption: 24.01 - 24.04
         sub_title: 인공지능 데이터/백엔드 엔지니어(인턴)
+        link: https://www.boinit.com/
+        # link_text: boringcompany.com
 
         description: |
-          yes24, aladin, kyobo 도서 사이트의 도서 url, 상세정보 수집기 제작 및 도서 mapping 모듈 제작 \
-          도서 pdf에서 라인 별로 자른 이미지를 앱 화면에 띄워 사용자가 오탈자를 수정할 수 있도록 하는 앱 제작
+          도서 pdf에서 라인 별로 자른 이미지를 앱 화면에 띄워 사용자가 오탈자를 수정할 수 있도록 하는 PyQt5를 활용한 앱 개발 \
+          도서 사이트 crawling 및 자동화를 담당하여 개발 \
+
+          <strong>주요 업무</strong>
+          - OCR을 위한 한글, 한자 학습 데이터를 만들기 위해 오탈자 검수 및 image cutting 기능이 있는 앱 설계 및 개발 \
+          - 사내 요구사항에 맞는 도서 데이터 수집을 위해 crawling 모듈 설계 및 개발
           
       #   quote: >
       #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -93,7 +97,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           보인정보기술 - 사내 프로젝트 \
           yes24, aladin, kyobo 도서 사이트의 도서 url, 상세정보 수집기 제작 및 도서 mapping 모듈 제작 \
-          crawling 자동화와 속도를 높이기 위해 'linux crontab'과 'GNU parallel processing'을 사용 
+          crawling 자동화와 속도를 높이기 위해 'linux crontab'과 'GNU parallel processing'을 사용 \
+          서로 다른 도서 사이트의 동일 도서를 확인하기 위해 'levenshtein distance' 알고리즘 활용
 
       - layout: separator
 
