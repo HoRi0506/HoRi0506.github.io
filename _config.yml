@@ -67,10 +67,10 @@ content:
 
         description: |
           도서 pdf에서 라인 별로 자른 이미지를 앱 화면에 띄워 사용자가 오탈자를 수정할 수 있도록 하는 PyQt5를 활용한 앱 개발 \
-          도서 사이트 crawling 및 자동화를 담당하여 개발 \
+          도서 사이트 crawling 및 자동화를 담당하여 개발<br><br>
 
           <strong>주요 업무</strong>
-          - OCR을 위한 한글, 한자 학습 데이터를 만들기 위해 오탈자 검수 및 image cutting 기능이 있는 앱 설계 및 개발 \
+          - OCR을 위한 한글, 한자 학습 데이터를 만들기 위해 오탈자 검수 및 image cutting 기능이 있는 앱 설계 및 개발
           - 사내 요구사항에 맞는 도서 데이터 수집을 위해 crawling 모듈 설계 및 개발
           
       #   quote: >
