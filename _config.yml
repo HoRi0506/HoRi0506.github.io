@@ -49,15 +49,74 @@ about_profile_image: images/resume_photo_2.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! <mark>데이터, AI와 함께 사는 개발자</mark> 김기완 입니다.\
   어떤 것을 만들거나 분석하는 것을 좋아해서 데이터 분석, 자연어처리, AI, 음성비서, GPT 등 다양한 곳에 관심을 가지고 있습니다.\
-  어떠한 일에 배우는 자세와 책임감을 가지고 임하며, 주어진 것을 그냥 사용하기 보단 필요에 따라 <mark>고민하고 이해</mark>하고자 합니다.\
+  어떠한 일에 배우는 자세와 책임감을 가지고 성실하게 임하며, 주어진 것을 그냥 사용하기 보단 필요에 따라 <mark>고민하고 이해</mark>하고자 합니다.\
   성장, 발전을 도모하고 회사에 어떠한 것을 기여하는 것은 혼자가 아닌 함께 해야 더욱 큰 임팩트를 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 <mark>커뮤니케이션</mark>하며 협업하고자 합니다.\
   다양한 기술들을 접하고 배우면서 <mark>스스로가 성장할 수 있고, 성취감을 얻을 수 있도록 노력</mark>하고자 합니다.
 
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 보인정보기술
+      #   link: boringcompany.com
+      #   # link_text: boringcompany.com
+        caption: 24.01 - 24.04
+        sub_title: 인공지능 데이터/백엔드 엔지니어(인턴)
+
+        description: |
+          yes24, aladin, kyobo 도서 사이트의 도서 url, 상세정보 수집기 제작 및 도서 mapping 모듈 제작 \
+          도서 pdf에서 라인 별로 자른 이미지를 앱 화면에 띄워 사용자가 오탈자를 수정할 수 있도록 하는 앱 제작
+          
+      #   quote: >
+      #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #       Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: 도서 사이트 scraping
+        caption: 24.02 ~ 24.04
+
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: 'fas fa-bell fa-shake'
+        #     url: github.com/HoRi0506/export_restrictions_GPT
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
+        description: | # this will include new lines to allow paragraphs
+          보인정보기술 - 사내 프로젝트 \
+          yes24, aladin, kyobo 도서 사이트의 도서 url, 상세정보 수집기 제작 및 도서 mapping 모듈 제작 \
+          crawling 자동화와 속도를 높이기 위해 'linux crontab'과 'GNU parallel processing'을 사용 
+
+      - layout: separator
+
+      - layout: left
+        title: 오탈자 수정 및 데이터 수집 앱 제작
+        caption: 24.01 ~ 24.02
+
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: 'fas fa-bell fa-shake'
+        #     url: github.com/HoRi0506/export_restrictions_GPT
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
+        description: | # this will include new lines to allow paragraphs
+          보인정보기술 - 사내 프로젝트 \
+          도서 pdf 파일로부터 라인 별로 자른 이미지와 해당 이미지를 선택했을 때의 텍스트 정보를 앱 화면에 표시 \
+          한글 뿐만 아니라 한자도 OCR 학습 데이터로 활용하기 위해 오탈자를 확인 및 수정
+
+      - layout: separator
+
       - layout: left
         title: 수출규제 GPT
         caption: 23.04.28 ~ 23.06.22
@@ -74,8 +133,7 @@ content:
         # quote: >
         #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
         description: | # this will include new lines to allow paragraphs
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project로
-          데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project로 데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
 
       - layout: separator
     
@@ -177,21 +235,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           컴퓨터 시스템, 프로그래밍 기법, 알고리즘 설계, 응용소프트웨어 개발 등 컴퓨터공학의 다양한 이론과 실습을 배움
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-      #   title: The Boring Company
-      #   link: boringcompany.com
-      #   # link_text: boringcompany.com
-      #   sub_title: Senior Network System Administrator
-      #   caption: November 2017 - Present
-      #   quote: >
-      #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: | # this will include new lines to allow paragraphs
-      #       Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -199,12 +242,12 @@ content:
       - IT/경제 뉴스 
       - 음악감상
       - 게임
-      - 풍경사진
+      - (풍경)사진 촬영
 
 
 # Footer
 footer_show_references: true
-references_title: update 23.12.08
+references_title: update 24.05.03
 
 # Build settings
 remote_theme: sproogen/resume-theme
