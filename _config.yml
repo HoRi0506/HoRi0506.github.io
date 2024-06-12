@@ -60,7 +60,7 @@ content:
     content:
       - layout: left
         title: 보인정보기술
-        caption: 24.01 - 24.04
+        caption: 24.01 - 24.05
         sub_title: 인공지능 데이터/백엔드 엔지니어(인턴)
         link: https://www.boinit.com/
         # link_text: boringcompany.com
@@ -252,7 +252,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: update 24.05.03
+references_title: update 24.06.12
 
 # Build settings
 remote_theme: sproogen/resume-theme
