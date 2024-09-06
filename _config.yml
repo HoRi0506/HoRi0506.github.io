@@ -214,7 +214,8 @@ content:
         # quote: >
         #  
         description: | # this will include new lines to allow paragraphs
-          기본적인 회사의 업무 및 매너에 대해 교육받고, 연계 기업에 필요한 역량을 교육 및 학습(python, 데이터 전처리, 머신러닝, ChatGPT 등)
+          기본적인 회사의 업무 및 매너에 대해 교육받고, 연계 기업에 필요한 역량을 교육 및 학습
+          (python, 데이터 전처리, 머신러닝, ChatGPT 등)
     
       - layout: separator
 
