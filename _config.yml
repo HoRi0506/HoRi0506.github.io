@@ -208,6 +208,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 미래내일 일경험 하이테커
+        caption: 24.08 - 24.09
+        sub_title: "하이테커"
+        # quote: >
+        #  
+        description: | # this will include new lines to allow paragraphs
+          기본적인 회사의 업무 및 매너에 대해 교육받고, 연계 기업에 필요한 역량을 교육 및 학습(python, 데이터 전처리, 머신러닝, ChatGPT 등)
+    
+      - layout: separator
+
+      - layout: left
         title: AI 기반 데이터 사이언티스트 양성 과정
         caption: 22.12 - 23.06
         sub_title: "패스트캠퍼스 강남학원"
