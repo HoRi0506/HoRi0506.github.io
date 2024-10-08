@@ -103,7 +103,7 @@ content:
       - layout: separator
 
       - layout: left
-        title: 오탈자 수정 및 \ 데이터 수집 앱 제작
+        title: 오탈자 수정 및 데이터 수집 앱 제작
         caption: 24.01 ~ 24.02
 
         # additional_links:
@@ -138,7 +138,8 @@ content:
         # quote: >
         #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : final-project
         description: | # this will include new lines to allow paragraphs
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \ final-project로 데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \
+          final-project로 데이터로부터 유저 QA 가능한 검색 챗봇 시스템 개발 프로젝트
 
       - layout: separator
     
@@ -158,7 +159,8 @@ content:
         # quote: >
         #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : modeling-project
         description: | # this will include new lines to allow paragraphs
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \ modeling-project로 Kaggle Competition으로 식품 마트의 미디어 캠페인 비용을 예측하는 모델을 고안하는 프로젝트
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \
+          modeling-project로 Kaggle Competition으로 식품 마트의 미디어 캠페인 비용을 예측하는 모델을 고안하는 프로젝트
 
       - layout: separator
     
@@ -178,7 +180,8 @@ content:
         # quote: >
         #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : EDA-project
         description: | # this will include new lines to allow paragraphs
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \ EDA-project로 부트캠프에서 진행한 toy project로 여행자의 여행지 선정과 기준을 EDA로 분석해보는 프로젝트
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \
+          EDA-project로 부트캠프에서 진행한 toy project로 여행자의 여행지 선정과 기준을 EDA로 분석해보는 프로젝트
 
       - layout: separator
     
@@ -198,26 +201,27 @@ content:
         # quote: >
         #   패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 : Crawling-project
         description: | # this will include new lines to allow paragraphs
-          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \ Crawling-project로 부트캠프에서 진행한 toy project로 다양한 서점 사이트 정보를 Crawling해서 원하는 책을 검색하면 책 정보를 사이트 별로 비교해서 출력해주는 프로젝트
+          패스트캠퍼스 - AI 기반 데이터 사이언티스트 양성 과정 \
+          Crawling-project로 부트캠프에서 진행한 toy project로 다양한 서점 사이트 정보를 Crawling해서 원하는 책을 검색하면 책 정보를 사이트 별로 비교해서 출력해주는 프로젝트
 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 미래내일 일경험 \ 기업 연계 - Metric Studio
+        title: 미래내일 일경험 기업 연계 - Metric Studio
         caption: 24.08 - 24.11
         sub_title: "미래내일 일경험 하이테커"
         # quote: >
         #  
         description: | # this will include new lines to allow paragraphs
-          기본적인 회사의 업무 및 매너에 대해 교육받고, 연계 기업에 필요한 역량을 교육 및 학습(python, 데이터 전처리, 시각화, 머신러닝 등) \
-          연계기업 Metric Studio에서 활용하는 데이터를 수집하기 위해 다양한 crawler를 제작(scrapy) \
+          - 기본적인 회사의 업무 및 매너에 대해 교육받고, 연계 기업에 필요한 역량을 교육 및 학습(python, 데이터 전처리, 시각화, 머신러닝 등) \
+          - 연계기업 Metric Studio에서 활용하는 데이터를 수집하기 위해 다양한 crawler를 제작(scrapy)
     
       - layout: separator
 
       - layout: left
-        title: AI 기반 데이터 \ 사이언티스트 양성 과정
+        title: AI 기반 데이터 사이언티스트 양성 과정
         caption: 22.12 - 23.06
         sub_title: "패스트캠퍼스 강남학원"
         # quote: >
@@ -229,7 +233,7 @@ content:
       - layout: separator
 
       - layout: left
-        title: 지능형 빅데이터 분석 \ 실무자 양성 과정
+        title: 지능형 빅데이터 분석 실무자 양성 과정
         caption: 22.02 - 22.12
         sub_title: "상지대학교 및 원주고용센터"
         # quote: >
