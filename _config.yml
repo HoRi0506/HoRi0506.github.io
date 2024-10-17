@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/resume_photo_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요! <mark>다양한 것을 활용하여 성장하는 개발자</mark> 김기완 입니다.\
+  안녕하세요! <mark>다양한 것을 활용하여 분석하고 만들며 성장하는 개발자</mark> 김기완 입니다.\
   어떤 것을 만들거나 분석하는 것을 좋아해서 다양한 것을 분석하고 만들어내는 것에 관심을 가지고 있습니다.\
   어떠한 일에 배우는 자세와 책임감을 가지고 성실하게 임하며, 주어진 것을 그냥 사용하기 보단 필요에 따라 <mark>고민하고 이해</mark>하고자 합니다.\
   성장, 발전을 도모하고 회사에 어떠한 것을 기여하는 것은 혼자가 아닌 함께 해야 더욱 큰 임팩트를 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 <mark>커뮤니케이션</mark>하며 협업하고자 합니다.\
@@ -265,7 +265,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: update 24.10.08
+references_title: update 24.10.17
 
 # Build settings
 remote_theme: sproogen/resume-theme
